@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-#quiz game
 
 root=Tk()
 e=Entry(root, width=50)
