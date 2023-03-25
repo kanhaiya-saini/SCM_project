@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 #quiz game
+#cvc application
 
 root=Tk()
 e=Entry(root, width=50)
